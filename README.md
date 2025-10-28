@@ -425,6 +425,22 @@ ETI = 100 \times \sum_{i=1}^{12} w_i \times \left(\frac{S_i}{3}\right)
 所以，这份测试对我来说，其实是一种纪念。它记录了我从想试试看到真的去构建的整个过程，也提醒着，学习一门语言，最终的目标不是考试，不是发音完美，而是**让你能用它去思考、去生活、去表达灵魂**。
 如果你也在学英语，希望这份小小的测试能给你带来一点启发，就像那天 TikTok 视频带给我的那样。
 
+---
+
+## 引用链接
+[1] : https://files.eric.ed.gov/fulltext/ED393301.pdf
+
+[2] : https://www.cambridge.org/core/books/thinking-and-speaking-in-a-second-language/A08F458B9DA07FCA64FE614BA44370E6
+
+[3] : https://github.com/index-tts/index-tts
+
+[4]  : https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages
+
+[5]  : https://zh.wikipedia.org/wiki/%E8%AA%9E%E8%A8%80%E7%9B%B8%E5%B0%8D%E8%AB%96
+
+---
+
+## 欢迎关注公众号：康桥笙箫
 
 
 
