@@ -2,6 +2,7 @@
 # 英语思维能力综合测试（English Thinking Ability Test）
 
 > **测试对象**：非母语环境下的且有一定基础的英语学习者
+
 > **测试目的**：衡量学习者是否真正建立了**英语思维系统**（English Thinking System）
 
 ---
